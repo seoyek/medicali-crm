@@ -1,0 +1,7 @@
+Application Data/
+.DS_Store
+.env
+config.php
+*.log
+/vendor/
+node_modules/
